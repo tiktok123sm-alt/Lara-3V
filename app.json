@@ -74,7 +74,7 @@
     },
 
     "AUTO_BIO": {
-      "description": "Make it true if you want bot auto bio",
+      "description": "🐰  수디파  수바후 💀┃❕👅",
       "required": false,
       "value": "false"
     },
@@ -104,7 +104,7 @@
     },
     
       "CUSTOM_REACT_EMOJIS": {
-      "description": "Custome react emojis.",
+      "description": "👽.",
       "required": true,
       "value": "👽"
     },
