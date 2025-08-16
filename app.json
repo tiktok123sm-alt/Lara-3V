@@ -1,7 +1,7 @@
 {
   "name": "LARA-MD ｘꜱɪᴅᴅɪ",
   "description": "LARA-MD Whatsapp bot © ꜱᴜᴅᴇᴇᴘᴀ ꜱᴜʙʜᴀʜᴜ",
-  "logo": "https://youtu.be/w5DYXJ1cy-Q?si=UghVAf0JWQgiUdzI.jpg",
+  "logo": "https://ibb.co/wFVmvqd6.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -75,8 +75,8 @@
 
     "AUTO_BIO": {
       "description": "Make it true if you want bot auto bio",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
     },
     
     "FAKE_RECORDING": {
