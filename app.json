@@ -1,7 +1,7 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "name": "LARA-MD ｘꜱɪᴅᴅɪ",
+  "description": "LARA-MD Whatsapp bot © ꜱᴜᴅᴇᴇᴘᴀ ꜱᴜʙʜᴀʜᴜ",
+  "logo": "https://youtu.be/w5DYXJ1cy-Q?si=UghVAf0JWQgiUdzI.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -16,13 +16,13 @@
     "OWNER_NUMBER": {
       "description": "Set your owner number",
       "required": true,
-      "value": "94779062397"
+      "value": "94762747158"
     },
 
     "DEV": {
       "description": "Bot Developer Numeber",
       "required": true,
-      "value": "94779062397"
+      "value": "94762747158"
     },
     
     "PREFIX": {
@@ -68,7 +68,7 @@
     },
     
     "AUTO_STATUS_REACT": {
-      "description": "Make it tru status auto react to any emojis",
+      "description": "👽",
       "required": true,
       "value": "true"
     },
@@ -106,7 +106,7 @@
       "CUSTOM_REACT_EMOJIS": {
       "description": "Custome react emojis.",
       "required": true,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "👽"
     },
     
     "ANTI_LINK": {
