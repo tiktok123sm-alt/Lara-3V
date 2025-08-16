@@ -12,7 +12,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "94762747158",
 DEV: process.env.DEV || "94762747158",
 LANG: process.env.LANG || "EN", // EN | SI
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true👽",
+AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 STATUS_REPLY_MSG: process.env.STATUS_REPLY_MSG || "*_`ꜱɪᴅᴅɪˣ ʟᴀʀᴀᴍᴅ`_* 💃🏻",
 AUTO_BIO: process.env.AUTO_BIO || "true",
